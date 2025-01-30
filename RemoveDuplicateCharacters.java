@@ -7,16 +7,19 @@ public class RemoveDuplicateCharacters {
         String input = scanner.nextLine();
         scanner.close();
         
-        StringBuilder result = new StringBuilder();
         boolean[] seen = new boolean[256];
+        char[] resultArray = new char[input.length()];
+        int index = 0;
         
         for (char ch : input.toCharArray()) {
             if (!seen[ch]) {
-                result.append(ch);
+                resultArray[index++] = ch;
                 seen[ch] = true;
             }
         }
         
-        System.out.println("Modified string without duplicates: " + result.toString());
+        String result = new String(resultArray, 0, index);
+        System.out.println("Modified string without duplicates: " + result);
     }
 }
+

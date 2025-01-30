@@ -7,18 +7,21 @@ public class ToggleCaseConverter {
         String input = scanner.nextLine();
         scanner.close();
         
-        StringBuilder toggledString = new StringBuilder();
+        char[] toggledArray = new char[input.length()];
         
-        for (char ch : input.toCharArray()) {
+        for (int i = 0; i < input.length(); i++) {
+            char ch = input.charAt(i);
             if (Character.isUpperCase(ch)) {
-                toggledString.append(Character.toLowerCase(ch));
+                toggledArray[i] = Character.toLowerCase(ch);
             } else if (Character.isLowerCase(ch)) {
-                toggledString.append(Character.toUpperCase(ch));
+                toggledArray[i] = Character.toUpperCase(ch);
             } else {
-                toggledString.append(ch);
+                toggledArray[i] = ch;
             }
         }
         
-        System.out.println("Toggled case string: " + toggledString.toString());
+        String toggledString = new String(toggledArray);
+        System.out.println("Toggled case string: " + toggledString);
     }
 }
+

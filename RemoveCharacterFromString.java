@@ -9,13 +9,17 @@ public class RemoveCharacterFromString {
         char charToRemove = scanner.next().charAt(0);
         scanner.close();
         
-        StringBuilder modifiedString = new StringBuilder();
+        char[] modifiedArray = new char[input.length()];
+        int index = 0;
+        
         for (char ch : input.toCharArray()) {
             if (ch != charToRemove) {
-                modifiedString.append(ch);
+                modifiedArray[index++] = ch;
             }
         }
         
-        System.out.println("Modified String: " + modifiedString.toString());
+        String modifiedString = new String(modifiedArray, 0, index);
+        System.out.println("Modified String: " + modifiedString);
     }
 }
+
