@@ -14,4 +14,6 @@ The assignment of 29/01/2025 of string and built in function is submitted on Bri
 The assigment of 31/01/2025 java class and objectsis submited on BridgeLabz_2115000151/in feature_31_01_2025 branch
 <br>
 The assignment of 01/02/2025 of java constructors,instance,acess modifiers is submited on BridgeLabz_2115000151/in feature_01_02_2025 branch
+<br>
+The assignment of 04/02/2025 of this,static,final keyword and instance operator is submitted on BridgeLabz_2115000151/in feature_04_02_2025 branch
 
