@@ -16,4 +16,5 @@ The assigment of 31/01/2025 java class and objectsis submited on BridgeLabz_2115
 The assignment of 01/02/2025 of java constructors,instance,acess modifiers is submited on BridgeLabz_2115000151/in feature_01_02_2025 branch
 <br>
 The assignment of 04/02/2025 of this,static,final keyword and instance operator is submitted on BridgeLabz_2115000151/in feature_04_02_2025 branch
-
+<br>
+The assigment of 05/02/2025 of object oriented design principles is submited on BridgeLabz_2115000151/in feature_05_02_2025 branch
