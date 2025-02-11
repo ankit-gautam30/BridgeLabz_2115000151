@@ -22,3 +22,5 @@ The assigment of 05/02/2025 of object oriented design principles is submited on 
 The assigment of 07/02/2025 of Inheritance and its types is submited on BridgeLabz_2115000151/in feature_07_02_2025 branch
 <br>
 The assigment of 10/02/2025 of Encapsulation,Interface,Abstraction,Polymorphism  is submited on BridgeLabz_2115000151/in feature_10_02_2025 branch
+<br>
+The assigment of 11/02/2025 of Data structure ,Linkedlist and its types is submited on BridgeLabz_2115000151/in feature_11_02_2025 branch
