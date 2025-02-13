@@ -24,3 +24,5 @@ The assigment of 07/02/2025 of Inheritance and its types is submited on BridgeLa
 The assigment of 10/02/2025 of Encapsulation,Interface,Abstraction,Polymorphism  is submited on BridgeLabz_2115000151/in feature_10_02_2025 branch
 <br>
 The assigment of 11/02/2025 of Data structure ,Linkedlist and its types is submited on BridgeLabz_2115000151/in feature_11_02_2025 branch
+<br>
+The assigment of 13/02/2025 of Stack,Queue,Hash Maps and Hash Functions is submited on BridgeLabz_2115000151/in feature_13_02_2025 branch
