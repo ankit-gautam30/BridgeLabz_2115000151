@@ -26,3 +26,6 @@ The assigment of 10/02/2025 of Encapsulation,Interface,Abstraction,Polymorphism 
 The assigment of 11/02/2025 of Data structure ,Linkedlist and its types is submited on BridgeLabz_2115000151/in feature_11_02_2025 branch
 <br>
 The assigment of 13/02/2025 of Stack,Queue,Hash Maps and Hash Functions is submited on BridgeLabz_2115000151/in feature_13_02_2025 branch
+<br>
+The assignment of 14/02/2025 of Sorting Algorithms like MErge,Quick,Selection,Insertion,Bubble,Counting and Heap Sort is submitted on BridgeLabz_2115000151/in feature_14_02_2025 branch
+
