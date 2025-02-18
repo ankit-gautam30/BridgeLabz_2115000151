@@ -32,3 +32,5 @@ The assignment of 14/02/2025 of Sorting Algorithms like MErge,Quick,Selection,In
 The assignment of 15/02/205 of StringBuilder ,StringBuffer, Linear and Bianry search, BufferRead,FileRead and InputStream Reader is submitted on BridgeLabz_211500151/in feature_15_02_2025 branch
 <br>
 The assigment of 17/02/2025 of Algorithm RunTime Analysis and Big Oh notation is submited on BridgeLabz_2115000151/in feature_17_02_2025 branch 
+<br>
+The assigment of 18/02/2025 of java Generics is submited on BridgeLabz_2115000151/in feature_18_02_2025 branch
