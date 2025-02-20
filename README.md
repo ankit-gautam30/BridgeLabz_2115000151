@@ -36,3 +36,5 @@ The assigment of 17/02/2025 of Algorithm RunTime Analysis and Big Oh notation is
 The assigment of 18/02/2025 of java Generics is submited on BridgeLabz_2115000151/in feature_18_02_2025 branch
 <br>
 The assignment of 19/02/2025 of java Collections is submitted on BridgeLabz_2115000151/in feature_19_02_2025 branch
+<br>
+The assignment of 20/02/2025 of java Streams is submitted on BridgeLabz_2115000151/in feature_20_02_2025 branch
