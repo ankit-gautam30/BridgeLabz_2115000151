@@ -40,3 +40,5 @@ The assignment of 19/02/2025 of java Collections is submitted on BridgeLabz_2115
 The assignment of 20/02/2025 of java Streams is submitted on BridgeLabz_2115000151/in feature_20_02_2025 branch
 <br>
 The assignment of 21/02/2025 of java exceptions and its types is submitted on BridgeLabz_2115000151/in feature_21_02_2025 branch
+<br>
+The assignment of 22/02/2025 of Regex and Junit is submitted on BridgeLabz_2115000151/in feature_22_02_2025 branch
