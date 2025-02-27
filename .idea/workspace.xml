@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fc3b1fcc-bb31-4df5-a1f8-79fa87aa44bf" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2taB8UrP0TLtfaqSJWGsvUdwRWa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.EmailValidation.executor": "Run",
+    "Application.Hands_on_Practice_Problems.Problem2.Main.executor": "Run",
+    "Application.Hands_on_Practice_Problems.Problem3.Main.executor": "Debug",
+    "Application.JsonToXml.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MergeJSONFiles.executor": "Run",
+    "Application.MergeJson.executor": "Run",
+    "Application.Practice_Problems.Problem7.Main.executor": "Run",
+    "Application.Problem3.Main.executor": "Run",
+    "Application.Problem6.Main.executor": "Run",
+    "Application.Student.executor": "Run",
+    "Application.ValidateJson.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "feature__26__02__2025",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.JsonToXml">
+    <configuration name="EmailValidation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hands_on_Practice_Problems.Problem4.EmailValidation" />
+      <module name="JSON_Assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Hands_on_Practice_Problems.Problem4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hands_on_Practice_Problems.Problem2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hands_on_Practice_Problems.Problem2.Main" />
+      <module name="JSON_Assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Hands_on_Practice_Problems.Problem2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hands_on_Practice_Problems.Problem3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hands_on_Practice_Problems.Problem3.Main" />
+      <module name="JSON_Assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Hands_on_Practice_Problems.Problem3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JsonToXml" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hands_on_Practice_Problems.Problem6.JsonToXml" />
+      <module name="JSON_Assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Hands_on_Practice_Problems.Problem6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeJSONFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hands_on_Practice_Problems.Problem5.MergeJSONFiles" />
+      <module name="JSON_Assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Hands_on_Practice_Problems.Problem5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JsonToXml" />
+        <item itemvalue="Application.MergeJSONFiles" />
+        <item itemvalue="Application.EmailValidation" />
+        <item itemvalue="Application.Hands_on_Practice_Problems.Problem3.Main" />
+        <item itemvalue="Application.Hands_on_Practice_Problems.Problem2.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc3b1fcc-bb31-4df5-a1f8-79fa87aa44bf" name="Changes" comment="" />
+      <created>1740580148541</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740580148541</updated>
+    </task>
+    <servers />
+  </component>
+</project>
